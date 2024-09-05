@@ -9,7 +9,7 @@ than 2^32. Input is terminated by ‘End of File’.
 For each line of input, print the difference of the number of soldiers between Hashmat’s army and his
 opponent’s army. Each output should be in a separate line.
 
-|  #  | Folder Link | Assignment Description |
+|  #  | File Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
 |  0  | [10055.pdf](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P10055/10055.pdf)     | .pdf file discussing the problem.          |
 |  1  | [main.cpp](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P10055/main.cpp)     | .cpp file containing the solution          |
