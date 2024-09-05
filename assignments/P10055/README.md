@@ -11,4 +11,7 @@ opponent’s army. Each output should be in a separate line.
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  0  | [10055.pdf](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P10055/10055.pdf)     | PDF discussing the problem.          |
+|  0  | [10055.pdf](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P10055/10055.pdf)     | .pdf file discussing the problem.          |
+|  1  | [main.cpp](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P10055/main.cpp)     | .cpp file containing the solution          |
+|  2  | [in.txt](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P10055/in.txt)     | .txt file containing the sample input given in the problem          |
+|  3  | [in2.txt](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P10055/in2.txt)     | .txt file containing the sample input given by uDebug          |
