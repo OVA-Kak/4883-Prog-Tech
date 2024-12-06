@@ -2,7 +2,7 @@
 ## Charles Zecha
 ### Input
 The input contains an integer x.
--2<sub>31<\sub> <= x <= 2<sub>31<\sub> - 1
+-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1
 
 ### Output
 True if x is a palindrome, and false otherwise.
