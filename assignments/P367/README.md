@@ -1,4 +1,4 @@
-# Plus One - 66
+# Valid Perfect Square - 367
 ## Charles Zecha
 ### Input
 The input contains a a positive integer num.
