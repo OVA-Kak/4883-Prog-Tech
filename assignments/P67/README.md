@@ -2,8 +2,11 @@
 ## Charles Zecha
 ### Input
 The input contains two binary strings a and b.
+
 1 <= a.length, b.length <= 10<sup>4</sup>
+
 a and b consist only of '0' or '1' characters.
+
 Each string does not contain leading zeros except for the zero itself.
 
 ### Output
