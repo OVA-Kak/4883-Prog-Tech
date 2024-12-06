@@ -10,3 +10,4 @@
 |  5  | [P125](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P125)  |  Given a string s, return true if it is a palindrome, or false otherwise.  |
 |  6  | [P191](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P191)  |  Given a positive integer n, write a function that returns the number of set bits in its binary representation  |
 |  7  | [P367](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P367)  |  Given a positive integer num, return true if num is a perfect square or false otherwise.  |
+|  8  | [P1281](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1281)  |  Given an integer number n, return the difference between the product of its digits and the sum of its digits.  |
