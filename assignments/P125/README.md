@@ -6,7 +6,7 @@ The input contains a string s.
 s consists only of printable ASCII characters.
 
 ### Output
-The square root of x rounded down to the nearest integer.
+Return true if it is a palindrome, or false otherwise.
 
 |  #  | File Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
