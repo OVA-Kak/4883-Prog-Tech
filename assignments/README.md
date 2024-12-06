@@ -13,7 +13,7 @@
 |  8  | [P1281](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1281)  |  Given an integer number n, return the difference between the product of its digits and the sum of its digits.  |
 |  9  | [P1342](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1342)  |  Given an integer num, return the number of steps to reduce it to zero.  |
 |  10  | [P1365](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1365)  |  Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it.  |
-|  11  | [A06](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A06)  |  a  |
+|  11  | [A06](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A06)  |  Given an array of integers stones where stones[i] is the weight of the i<sup>th</sup> stone. Return the weight of the last remaining stone. If there are no stones left, return 0.   |
 |  12  | [A07](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A07)  |  a  |
 |  13  | [A08](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A08)  |  Given an m x n 2D binary grid "grid" which represents a map of '1's (land) and '0's (water), return the number of islands.  |
 |  14  | [A09](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A09)  |  a  |
