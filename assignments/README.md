@@ -17,5 +17,5 @@
 |  12  | [A07](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A07)  |  a  |
 |  13  | [A08](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A08)  |  Given an m x n 2D binary grid "grid" which represents a map of '1's (land) and '0's (water), return the number of islands.  |
 |  14  | [A09](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A09)  |  a  |
-|  15  | [A10](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A10)  |  a  |
+|  15  | [A10](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A10)  |  An intresting, but terribly written solution to LeetCode - 335 Self Crossing  |
 |  16  | [A11](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A11)  |  a  |
