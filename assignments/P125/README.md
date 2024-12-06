@@ -4,6 +4,7 @@
 The input contains a string s.
 
 1 <= s.length <= 2 * 10<sup>5</sup>
+
 s consists only of printable ASCII characters.
 
 ### Output
