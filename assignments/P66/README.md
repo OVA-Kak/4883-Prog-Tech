@@ -5,7 +5,6 @@ The input contains a large integer represented as an integer array digits, where
 1 <= digits.length <= 100
 0 <= digits[i] <= 9
 
-Increment the large integer by one and return the resulting array of digits.
 ### Output
 The large integer incremented by one represented as an integer array.
 
