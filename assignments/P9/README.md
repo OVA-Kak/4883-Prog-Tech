@@ -9,4 +9,4 @@ True if x is a palindrome, and false otherwise.
 
 |  #  | File Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  0  | [main.cpp](https://github.com/OVA-Kak/4883-Prog-Tech/blob/main/assignments/P9/main.cpp)     | .cpp file containing the solution          |
+|  0  | [main.cpp](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P9)     | .cpp file containing the solution          |
