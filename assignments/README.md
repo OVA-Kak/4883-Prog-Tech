@@ -13,3 +13,9 @@
 |  8  | [P1281](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1281)  |  Given an integer number n, return the difference between the product of its digits and the sum of its digits.  |
 |  9  | [P1342](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1342)  |  Given an integer num, return the number of steps to reduce it to zero.  |
 |  10  | [P1365](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1365)  |  Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it.  |
+|  11  | [A06](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A06)  |  a  |
+|  12  | [A07](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A07)  |  a  |
+|  13  | [A08](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A08)  |  a  |
+|  14  | [A09](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A09)  |  a  |
+|  15  | [A10](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A10)  |  a  |
+|  16  | [A11](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/A11)  |  a  |
