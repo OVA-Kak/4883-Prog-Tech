@@ -12,3 +12,4 @@
 |  7  | [P367](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P367)  |  Given a positive integer num, return true if num is a perfect square or false otherwise.  |
 |  8  | [P1281](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1281)  |  Given an integer number n, return the difference between the product of its digits and the sum of its digits.  |
 |  9  | [P1342](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1342)  |  Given an integer num, return the number of steps to reduce it to zero.  |
+|  10  | [P1365](https://github.com/OVA-Kak/4883-Prog-Tech/tree/main/assignments/P1365)  |  Given the array nums, for each nums[i] find out how many numbers in the array are smaller than it.  |
