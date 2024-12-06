@@ -1,4 +1,4 @@
-# Subtract the Product and Sum of Digits of an Integer - 1342
+# Number of Steps to Reduce a Number to Zero/ - 1342
 ## Charles Zecha
 ### Input
 The input contains an integer num.
