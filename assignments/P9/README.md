@@ -2,6 +2,7 @@
 ## Charles Zecha
 ### Input
 The input contains an integer x.
+
 -2<sup>31</sup> <= x <= 2<sup>31</sup> - 1
 
 ### Output
